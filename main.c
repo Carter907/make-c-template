@@ -3,7 +3,7 @@
 
 int main(void) {
 
-    printf("Welcome to my C & Make template\n");
+	printf("Welcome to my C & Make template\n");
 
 	return EXIT_SUCCESS;
 }
